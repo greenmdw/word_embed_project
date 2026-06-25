@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*%py.class
+*.pyo
+*.pyd
+
+# venv
+.env/
+venv/
+./.env
+env/
+
+# 파이참
+.idea/
+.vscode/
+*.iml
+
+# 운영체제 임시 파일
+.DS_store
+Thumbs.db
+
+# 임시 실행 결과 파일들(로그,
+
+.ipynb
+
+# 팀원간 데이터
+*.csv
+#*.txt
+*.xlsx
+
+# 학습된 모델/벡터 파일
+# 대용량 파일
+*.model
+*.kv
+*.vec
+*.bin
+*.gz
+eng_w2v
+*.npy
+*.npz
+
+# matplotlib 등 실행결과 이미지
+*.png
+*.jpg
+*.jpeg
+*.svg
